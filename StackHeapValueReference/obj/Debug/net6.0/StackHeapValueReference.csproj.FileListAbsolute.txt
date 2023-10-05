@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\StackHeapValueReference\StackHeapValueReference\bin\Debug\net6.0\StackHeapValueReference.exe
+C:\Users\DELL\source\repos\StackHeapValueReference\StackHeapValueReference\bin\Debug\net6.0\StackHeapValueReference.deps.json
+C:\Users\DELL\source\repos\StackHeapValueReference\StackHeapValueReference\bin\Debug\net6.0\StackHeapValueReference.runtimeconfig.json
+C:\Users\DELL\source\repos\StackHeapValueReference\StackHeapValueReference\bin\Debug\net6.0\StackHeapValueReference.dll
+C:\Users\DELL\source\repos\StackHeapValueReference\StackHeapValueReference\bin\Debug\net6.0\StackHeapValueReference.pdb
+C:\Users\DELL\source\repos\StackHeapValueReference\StackHeapValueReference\obj\Debug\net6.0\StackHeapValueReference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\StackHeapValueReference\StackHeapValueReference\obj\Debug\net6.0\StackHeapValueReference.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\StackHeapValueReference\StackHeapValueReference\obj\Debug\net6.0\StackHeapValueReference.AssemblyInfo.cs
+C:\Users\DELL\source\repos\StackHeapValueReference\StackHeapValueReference\obj\Debug\net6.0\StackHeapValueReference.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\StackHeapValueReference\StackHeapValueReference\obj\Debug\net6.0\StackHeapValueReference.dll
+C:\Users\DELL\source\repos\StackHeapValueReference\StackHeapValueReference\obj\Debug\net6.0\refint\StackHeapValueReference.dll
+C:\Users\DELL\source\repos\StackHeapValueReference\StackHeapValueReference\obj\Debug\net6.0\StackHeapValueReference.pdb
+C:\Users\DELL\source\repos\StackHeapValueReference\StackHeapValueReference\obj\Debug\net6.0\StackHeapValueReference.genruntimeconfig.cache
+C:\Users\DELL\source\repos\StackHeapValueReference\StackHeapValueReference\obj\Debug\net6.0\ref\StackHeapValueReference.dll
